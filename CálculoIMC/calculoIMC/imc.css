@@ -1,0 +1,16 @@
+
+#areaTotal{
+    width: 50%;
+    margin: 30px auto; /*centraliza o elemento na largura - automatico à esquerda e direita*/
+    border: 2px solid #000;
+    background-color:floralwhite;
+}
+#areaPeso, #areaAltura, #botao, h1, #resposta{
+    padding-left: 20px; /*afastamento interno à esqueda*/
+}
+#areaPeso, #areaAltura, #botao{
+    /*border: 5px solid #000;*/
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+/*margin é a margem da caixa maior, padding é dentro de cada caixa*/
