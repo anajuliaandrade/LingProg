@@ -1,0 +1,21 @@
+#container {
+    width: 37%;
+    margin: 30px auto;
+    border: 1px solid #000;
+}
+
+h1 {
+    text-align: center;
+}
+/*também pode ser feito:
+ul {
+    list-style: none;
+}*/
+
+li{
+    margin-bottom: 10px;
+}
+div{
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
